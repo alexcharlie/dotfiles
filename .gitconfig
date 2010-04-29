@@ -1,0 +1,15 @@
+[user]
+    name = Alex Le
+      email = alex@seriousbusiness.com
+[alias]
+    co = checkout
+      st = status
+        ci = commit
+[apply]
+    whitespace = nowarn
+[color]
+    diff = auto
+      status = auto
+        branch = auto
+[i18n]
+    commitencoding = UTF8
